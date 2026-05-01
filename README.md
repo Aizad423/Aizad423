@@ -1,5 +1,6 @@
 # 💫 About Me:
-Versatile professional with 20+ years of experience across financial services, food processing, project management, higher education, and CEO of [Dazia Consultinc Inc](https://dazia.ca/). <br>Combines expertise in finance and food technology with strong skills in IT project management, Lean Six Sigma, and process improvement.<br><br>Experience includes roles as a Financial, Insurance, and Investment Advisor delivering financial planning and compliance guidance, along with hands-on work in dairy and juice processing, quality management, and food safety/halal auditing.<br><br>Also served as an Adjunct Professor teaching project management, business, and quality courses, integrating real-world industry experience into the classroom.
+I am Aizad Ahmad CEO of [Dazia Consultinc Inc.](https://dazia.ca/)
+A versatile professional with 20+ years of experience across financial services, food processing, project management, and higher education. Combining expertise in finance and food technology with strong skills in IT project management, Lean Six Sigma, and process improvement.<br><br>Experience includes roles as a Financial, Insurance, and Investment Advisor delivering financial planning and compliance guidance, along with hands-on work in dairy and juice processing, quality management, and food safety/halal auditing.<br><br>Also served as an Adjunct Professor teaching project management, business, and quality courses, integrating real-world industry experience into the classroom.
 
 # Skills & Technologies
 
